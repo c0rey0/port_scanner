@@ -2,5 +2,5 @@
 
 1. Laucnh scan
 ```
-python main.py "ip_range"
+python main.py ip_range
 ```
